@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @didrik-liu
+- I'm working as a summer intern at Team Data & Analytics
+- Third year student at civil engineering in Computer Science at KTH
