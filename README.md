@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @didrik-liu
 - I'm working as AI Engineer at IT & CISO at Pricer
-- Master Industrial Managemend & Computer Science
+- Master Industrial Managemend & Computer Science from KTH
