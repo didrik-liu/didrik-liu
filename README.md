@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @didrik-liu
-- I'm working as a summer intern at Team Data & Analytics
-- Third year student at civil engineering in Computer Science at KTH
+- I'm working as AI Engineer at IT & CISO at Pricer
+- Master Industrial Managemend & Computer Science
